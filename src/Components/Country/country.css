@@ -1,0 +1,21 @@
+.country {
+	text-align: center;
+	border: 2px solid goldenrod;
+	border-radius: 25px;
+}
+
+.countryTitle {
+	display: flex;
+	gap: 20px;
+	flex-direction: column;
+	margin: 20px 0;
+}
+
+.countryImg {
+	object-fit: contain;
+	height: 120px;
+}
+
+.countryVisited {
+	background-color: Green;
+}
